@@ -6,7 +6,7 @@
 
 * [Model training and prediction](training_and_prediction.ipynb)
 
-* [Data analysis 1](ngwl_graphs.ipynb), [Data analysis 2](SberMarket.ipynb)
+* [Data analysis 1](ngwl_graphs.ipynb), [Data analysis 2](EDA_for_insights.ipynb)
 
 
 
